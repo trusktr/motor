@@ -1,5 +1,7 @@
 # Infamous Engine
 
+[![Join the chat at https://gitter.im/infamous/motor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infamous/motor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/infamous/engine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/infamous/engine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Javascript UI Engine built on Three.js
