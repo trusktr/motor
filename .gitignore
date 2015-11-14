@@ -1,0 +1,47 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+
+# Meteor
+.meteor/local
+.meteor/meteorite
+
+.idea/
+
+*.swp
+
+.DS_Store
+npm-debug.log
+
+# generated semantic-ui files
+client/lib/semantic-ui/*
+client/lib/semantic-ui/.*

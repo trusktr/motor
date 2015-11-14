@@ -1,0 +1,6 @@
+motor = {
+  core: {},
+  integrations: {
+    meteor: {}
+  }
+};

@@ -1,0 +1,8 @@
+{
+  "name": "2D-fallback",
+  "scripts": {
+    "dev": "meteor -p 3006",
+    "testing": "",
+    "production": ""
+  }
+}
