@@ -279,20 +279,20 @@
             }
           }
         },
-        "ansi-regex": {
-          "version": "1.1.1"
+        "ansi-styles": {
+          "version": "2.1.0"
         },
         "ansi": {
           "version": "0.3.0"
         },
-        "ansi-styles": {
-          "version": "2.1.0"
-        },
-        "are-we-there-yet": {
-          "version": "1.0.4"
+        "ansi-regex": {
+          "version": "1.1.1"
         },
         "array-index": {
           "version": "0.1.1"
+        },
+        "are-we-there-yet": {
+          "version": "1.0.4"
         },
         "asap": {
           "version": "2.0.3"
@@ -342,20 +342,20 @@
         "concat-map": {
           "version": "0.0.1"
         },
-        "core-util-is": {
-          "version": "1.0.1"
-        },
         "cryptiles": {
           "version": "2.0.4"
+        },
+        "core-util-is": {
+          "version": "1.0.1"
         },
         "ctype": {
           "version": "0.5.3"
         },
-        "debug": {
-          "version": "2.2.0"
-        },
         "debuglog": {
           "version": "1.0.1"
+        },
+        "debug": {
+          "version": "2.2.0"
         },
         "defaults": {
           "version": "1.0.2"
@@ -438,17 +438,17 @@
         "lodash._arraycopy": {
           "version": "3.0.0"
         },
-        "lodash._arrayeach": {
-          "version": "3.0.0"
-        },
         "lodash._baseassign": {
           "version": "3.2.0"
         },
-        "lodash._basecallback": {
-          "version": "3.3.1"
+        "lodash._arrayeach": {
+          "version": "3.0.0"
         },
         "lodash._baseclone": {
           "version": "3.3.0"
+        },
+        "lodash._basecallback": {
+          "version": "3.3.1"
         },
         "lodash._basecopy": {
           "version": "3.0.1"
@@ -459,11 +459,11 @@
         "lodash._baseflatten": {
           "version": "3.1.4"
         },
-        "lodash._basefor": {
-          "version": "3.0.2"
-        },
         "lodash._baseindexof": {
           "version": "3.1.0"
+        },
+        "lodash._basefor": {
+          "version": "3.0.2"
         },
         "lodash._baseisequal": {
           "version": "3.0.7"
@@ -474,11 +474,11 @@
         "lodash._baseuniq": {
           "version": "3.0.3"
         },
-        "lodash._bindcallback": {
-          "version": "3.0.1"
-        },
         "lodash._cacheindexof": {
           "version": "3.0.2"
+        },
+        "lodash._bindcallback": {
+          "version": "3.0.1"
         },
         "lodash._createcache": {
           "version": "3.1.2"
@@ -597,11 +597,11 @@
         "string_decoder": {
           "version": "0.10.31"
         },
-        "stringstream": {
-          "version": "0.0.4"
-        },
         "strip-ansi": {
           "version": "2.0.1"
+        },
+        "stringstream": {
+          "version": "0.0.4"
         },
         "supports-color": {
           "version": "2.0.0"
